@@ -19,3 +19,4 @@ focus primarily on implementing business logic.
 | Containerization and Orchestration | Docker, Kubernetes                              |
 | Testing and CI/CD                  | JUnit, Mockito, Jenkins, GitHub Actions         |
 | Monitoring and Alerting            | Prometheus                                      |
+| REST API  & Documentation          | Swagger/OpenApi                                 |
